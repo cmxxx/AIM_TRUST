@@ -4,7 +4,7 @@ AIM_trust is a traffic simulator for the study of innovative design of intersect
 This program is based on the source code of [AIM4](http://www.cs.utexas.edu/~aim/).
 
 - GUI simulator is included in the directory: /AIM_trust_simulator. 
-- Reinforcement learning agent is included in the directory: /Trust_PL_agent is our  
+- Reinforcement learning agent is included in the directory: /Trust_PL_agent is ours  
 ***********
 
 ## Running Process
